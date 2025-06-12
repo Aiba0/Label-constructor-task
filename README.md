@@ -35,3 +35,8 @@
 * **TypeScript** (используется для строгой типизации всего проекта)
 * **Tailwind CSS**
 * Работает **только на стороне клиента** и использует **LocalStorage** для хранения данных.
+* 
+* 
+* 
+* 
+* https://label-constructor-task.vercel.app/
